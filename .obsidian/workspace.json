@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "HERRAMIENTAS/GOBUSTER.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "HERRAMIENTAS/GOBUSTER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "HERRAMIENTAS/GOBUSTER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "HERRAMIENTAS/GOBUSTER.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "29c58f3b55850e28",
   "lastOpenFiles": [
+    "Pasted image 20240112000635.png",
+    "HERRAMIENTAS/EMPIRE.md",
     "README.md",
     "GENERAL/Git.md",
     "EJPT/Borrador y cosas pendientes.md",
@@ -157,7 +159,6 @@
     "GENERAL/IP ROUTING.md",
     "GENERAL/Hashes.md",
     "HERRAMIENTAS/BLOODHOUND.md",
-    "HERRAMIENTAS/EMPIRE.md",
     "HERRAMIENTAS/HYDRA.md",
     "HERRAMIENTAS/MASSCAN.md",
     "HERRAMIENTAS/WPSCAN.md",
@@ -173,7 +174,6 @@
     "PROTOCOLOS/SSH.md",
     "PROTOCOLOS/NETBIOS.md",
     "PROTOCOLOS/SMB.md",
-    "TECNICAS/Cracking.md",
     "GENERAL/WINDOWS",
     "GENERAL/LINUX",
     "CVE",
