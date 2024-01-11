@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "GENERAL/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "GENERAL/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "GENERAL/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "GENERAL/Git.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "29c58f3b55850e28",
   "lastOpenFiles": [
+    "EJPT/Borrador y cosas pendientes.md",
     "README.md",
     "Sin título.md",
     "GENERAL/Git.md",
@@ -157,7 +158,6 @@
     "GENERAL/IP ROUTING.md",
     "GENERAL/Hashes.md",
     "HERRAMIENTAS/BLOODHOUND.md",
-    "EJPT/Borrador y cosas pendientes.md",
     "HERRAMIENTAS/EMPIRE.md",
     "HERRAMIENTAS/HYDRA.md",
     "HERRAMIENTAS/MASSCAN.md",
