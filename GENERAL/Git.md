@@ -21,7 +21,7 @@
 
 
 
-
+AQUI abajo habra ejemplos (testing el plugin de obsidian)
 
 
 
