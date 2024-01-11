@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GENERAL/Git.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GENERAL/Git.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GENERAL/Git.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GENERAL/Git.md"
+                "file": "README.md"
               }
             }
           }
@@ -143,16 +143,15 @@
       "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian42-brat:BRAT": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "29c58f3b55850e28",
   "lastOpenFiles": [
+    "GENERAL/Git.md",
     "EJPT/Borrador y cosas pendientes.md",
     "README.md",
     "Sin título.md",
-    "GENERAL/Git.md",
     "HERRAMIENTAS/JOHN.md",
     "OSINT/Google Dorks.md",
     "GENERAL/IP ROUTING.md",
