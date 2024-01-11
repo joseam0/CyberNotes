@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "182ab1628edb3d92",
+    "type": "split",
+    "children": [
+      {
+        "id": "5715162a46841a0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29c58f3b55850e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0183c743eb403997",
+    "type": "split",
+    "children": [
+      {
+        "id": "64a7f66c7eb0de35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf12112b90b5344e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "f443b58733e7682a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a4b50a5a2b34318",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9727c048a745c541",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aa0cc1daea9fdb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a5c2edc75e179af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9360a60e61cc9b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "521961ec9cc1b18f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "08895dfeb5140d7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "29c58f3b55850e28",
+  "lastOpenFiles": [
+    "README.md",
+    "Sin título.md",
+    "GENERAL/Git.md",
+    "HERRAMIENTAS/JOHN.md",
+    "OSINT/Google Dorks.md",
+    "GENERAL/IP ROUTING.md",
+    "GENERAL/Hashes.md",
+    "HERRAMIENTAS/BLOODHOUND.md",
+    "EJPT/Borrador y cosas pendientes.md",
+    "HERRAMIENTAS/EMPIRE.md",
+    "HERRAMIENTAS/HYDRA.md",
+    "HERRAMIENTAS/MASSCAN.md",
+    "HERRAMIENTAS/WPSCAN.md",
+    "HERRAMIENTAS/ENUM4LINUX.md",
+    "HERRAMIENTAS/WFUZZ.md",
+    "HERRAMIENTAS/CRACKMAPEXEC.md",
+    "HERRAMIENTAS/HASHCAT.md",
+    "HERRAMIENTAS/NIKTO.md",
+    "HERRAMIENTAS/NETCAT.md",
+    "PROGRAMACION/SQL.md",
+    "PROGRAMACION/Python.md",
+    "PROGRAMACION/Bash.md",
+    "PROTOCOLOS/SSH.md",
+    "PROTOCOLOS/NETBIOS.md",
+    "PROTOCOLOS/SMB.md",
+    "TECNICAS/Cracking.md",
+    "GENERAL/WINDOWS",
+    "GENERAL/LINUX",
+    "CVE",
+    "HACKTHEBOX",
+    "HERRAMIENTAS/BURPSUITE",
+    "PROTOCOLOS",
+    "PROGRAMACION",
+    "GENERAL",
+    "TECNICAS",
+    "Sin título.canvas",
+    "OSINT",
+    "Sin título 1.canvas"
+  ]
+}
