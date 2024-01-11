@@ -1,1 +1,6 @@
 # CyberNotes
+
+[[Google Dorks]]
+
+[[Git]]
+
