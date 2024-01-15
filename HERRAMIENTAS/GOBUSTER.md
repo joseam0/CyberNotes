@@ -1,6 +1,11 @@
 
 
 
+Herramienta que sirve para hacer [[Fuerza bruta]] a una web, para el descubrimiento de directorios o subdominios.
+
+Similar a herramientas como 
+[[WFUZZ]] [[DIRB]]
+
 | Flag | Explicación | Ejemplo |
 | ---- | ---- | ---- |
 | `-w, --wordlist` | Permite especificar la ubicación del diccionario. | `gobuster dir -u http://a.com -w /a/dict.txt` |
