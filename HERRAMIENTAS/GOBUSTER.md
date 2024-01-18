@@ -1,10 +1,10 @@
 
 
 
-Herramienta que sirve para hacer [[Fuerza bruta]] a una web, para el descubrimiento de directorios o subdominios.
+Herramienta que sirve para hacer FUZZING  a una web, para el descubrimiento de directorios o subdominios.
 
 Similar a herramientas como 
-[[WFUZZ]] [[DIRB]]
+
 
 | Flag | Explicación | Ejemplo |
 | ---- | ---- | ---- |
