@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5fe9c39880c0fab2",
+        "id": "aab22bb56a5bbeca",
         "type": "tabs",
         "children": [
           {
-            "id": "bdd8abfa87baae70",
+            "id": "2061c5046bdab9b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HERRAMIENTAS/SQLMAP.md",
+                "file": "HERRAMIENTAS/NMAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HERRAMIENTAS/SQLMAP.md",
+                "file": "HERRAMIENTAS/NMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HERRAMIENTAS/SQLMAP.md",
+                "file": "HERRAMIENTAS/NMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HERRAMIENTAS/SQLMAP.md"
+                "file": "HERRAMIENTAS/NMAP.md"
               }
             }
           }
@@ -146,36 +146,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bdd8abfa87baae70",
+  "active": "2061c5046bdab9b1",
   "lastOpenFiles": [
-    "HERRAMIENTAS/NMAP.md",
-    "HERRAMIENTAS/GOBUSTER.md",
     "HERRAMIENTAS/SQLMAP.md",
-    "HERRAMIENTAS/EMPIRE.md",
-    "HERRAMIENTAS/PROXYCHAINS.md",
-    "Sin título.canvas",
     "HERRAMIENTAS/HYDRA.md",
     "HERRAMIENTAS/MASSCAN.md",
+    "HERRAMIENTAS/PROXYCHAINS.md",
+    "HERRAMIENTAS/NMAP.md",
+    "HERRAMIENTAS/GOBUSTER.md",
+    "README.md",
+    "HERRAMIENTAS/DIRB.md",
     "HERRAMIENTAS/WPSCAN.md",
     "HERRAMIENTAS/ENUM4LINUX.md",
-    "HERRAMIENTAS/DIRB.md",
     "HERRAMIENTAS/WFUZZ.md",
     "HERRAMIENTAS/BLOODHOUND.md",
-    "HERRAMIENTAS/MIMIKATZ.md",
-    "TECNICAS/Fuerza bruta.md",
-    "Pasted image 20240112000635.png",
-    "README.md",
-    "GENERAL/Git.md",
-    "EJPT/Borrador y cosas pendientes.md",
-    "Sin título.md",
-    "HERRAMIENTAS/JOHN.md",
-    "OSINT/Google Dorks.md",
-    "GENERAL/IP ROUTING.md",
-    "GENERAL/Hashes.md",
     "HERRAMIENTAS/CRACKMAPEXEC.md",
+    "HERRAMIENTAS/JOHN.md",
     "HERRAMIENTAS/HASHCAT.md",
+    "HERRAMIENTAS/MIMIKATZ.md",
+    "OSINT/Google Dorks.md",
+    "EMPIRE.md",
     "HERRAMIENTAS/NIKTO.md",
     "HERRAMIENTAS/NETCAT.md",
+    "OWASP/SSRF.md",
+    "TECNICAS/Fuerza bruta.md",
+    "TECNICAS/Pivoting.md",
+    "TECNICAS/Cracking.md",
+    "PROGRAMACION/SQL.md",
+    "OWASP/XSS.md",
+    "Sin título.canvas",
+    "Pasted image 20240112000635.png",
     "GENERAL/WINDOWS",
     "GENERAL/LINUX",
     "CVE",
