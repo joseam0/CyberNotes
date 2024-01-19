@@ -1,5 +1,8 @@
 
 
+se utiliza para realizar operaciones relacionadas con la extracción y manipulación de credenciales en sistemas Windows.
+
+
 | Tarea                                          | Comando                                                      |
 |------------------------------------------------|--------------------------------------------------------------|
 | Extracción de Credenciales en Texto Plano      | `mimikatz.exe "sekurlsa::logonpasswords"`                   |
