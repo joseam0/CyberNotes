@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECNICAS/DISCOVERY.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECNICAS/DISCOVERY.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECNICAS/DISCOVERY.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECNICAS/DISCOVERY.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "61f44e2a74561dd8",
   "lastOpenFiles": [
+    "HERRAMIENTAS/HASHCAT.md",
+    "TECNICAS/DISCOVERY.md",
     "HERRAMIENTAS/ENUM4LINUX.md",
     "HERRAMIENTAS/FFUF.md",
     "HERRAMIENTAS/GOBUSTER.md",
-    "HERRAMIENTAS/HASHCAT.md",
     "HERRAMIENTAS/HYDRA.md",
     "HERRAMIENTAS/JOHN.md",
     "HERRAMIENTAS/MIMIKATZ.md",
@@ -163,7 +164,6 @@
     "TECNICAS/PRIVILEGE ESCALATION/WINDOWS.md",
     "TECNICAS/PRIVILEGE ESCALATION/LINUX.md",
     "HERRAMIENTAS/BLOODHOUND.md",
-    "TECNICAS/DISCOVERY.md",
     "HERRAMIENTAS/DNSRECON.md",
     "TECNICAS/Cracking.md",
     "OWASP/File Upload.md",
