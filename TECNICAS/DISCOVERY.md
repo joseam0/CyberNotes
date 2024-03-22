@@ -31,7 +31,7 @@
 ```
 
 
-- **HTTP HEADERS**: al hacer una peticion simple a una web `curl http://1.1.1.1 -v` a veces el servidor responde con cabeceras que nos pueden dar informacion sobre el tipo y versiondel servidor
+- **HTTP HEADERS**: al hacer una petición simple a una web `curl http://1.1.1.1 -v` a veces el servidor responde con cabeceras que nos pueden dar información sobre el tipo y version del servidor
 
  `HTTP/1.1 200 OK`
 `< Server: nginx/1.18.0 (Ubuntu)`
@@ -41,3 +41,9 @@
 `< Connection: keep-alive`
 `< X-FLAG: THM{HEADER_FLAG}``
 `
+
+- Enumeración de subdominios:
+	- Se puede realizar de 3 maneras, por fuerza bruta, por OSINT y por VirtualHosts
+		- FUERZA BRUTA: usando herramientas como [[DNSRECON]]
+		- OSINT: usando herramientas como [[Sublist3r]]
+		- Virtual Hosts: usando herramientas como [[FFUF]]
