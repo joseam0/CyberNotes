@@ -17,3 +17,14 @@
 | -q (Quiet)          | Modo silencioso, suprime mensajes de salida.        | `nc -lvp 4444 -q 0`                                 |
 | -d (Detach)         | Ejecuta Netcat en segundo plano (detached).         | `nc -lvp 4444 -e /bin/bash -d`                      |
 | -z (Zero I/O Mode)  | Escanea puertos sin enviar datos (sin salida).      | `nc -zv 192.168.1.1 80`                             |
+
+
+
+## como enviar archivos a través de netcat
+
+el que va a enviar
+`nc {IPDESTINO} 443 > {ARCHIVO}`
+
+el que va a recibir
+`nc -nlvp 443 > {NOMBREDEARCHIVO}`
+
