@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e838707a691ada2c",
+        "id": "933cea6bdde9b0b0",
         "type": "tabs",
         "children": [
           {
-            "id": "a5d68553de5051ce",
+            "id": "96cdd95bb3b12294",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GENERAL/LINUX/Archivos y comandos interesantes de Linux.md",
+                "file": "HERRAMIENTAS/SQLMAP.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "dbb1c2586361c3bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GENERAL/LINUX/Archivos y comandos interesantes de Linux.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GENERAL/LINUX/Archivos y comandos interesantes de Linux.md",
+                "file": "HERRAMIENTAS/SQLMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GENERAL/LINUX/Archivos y comandos interesantes de Linux.md",
+                "file": "HERRAMIENTAS/SQLMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GENERAL/LINUX/Archivos y comandos interesantes de Linux.md"
+                "file": "HERRAMIENTAS/SQLMAP.md"
               }
             }
           }
@@ -159,38 +146,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dbb1c2586361c3bf",
+  "active": "96cdd95bb3b12294",
   "lastOpenFiles": [
-    "HERRAMIENTAS/NETCAT.md",
-    "GENERAL/LINUX/Archivos y comandos interesantes de Linux.md",
-    "HERRAMIENTAS/WFUZZ.md",
-    "TECNICAS/BYPASS DE AUTENTICACIÓN.md",
-    "TECNICAS/DISCOVERY.md",
-    "TECNICAS/Pivoting.md",
+    "TECNICAS/ESCALADA DE PRIVILEGIOS WINDOWS.md",
+    "TECNICAS/Escalada de privilegios LINUX.md",
+    "EJPT/Borrador y cosas pendientes.md",
     "TECNICAS/Pass the HASH.md",
-    "TECNICAS/Fuerza bruta.md",
-    "TECNICAS/Cracking.md",
-    "TryhackmeJPT/notas.md",
     "TECNICAS/FUZZING.md",
+    "TECNICAS/Fuerza bruta.md",
+    "TECNICAS/DISCOVERY.md",
+    "TECNICAS/Cracking.md",
+    "TECNICAS/BYPASS DE AUTENTICACIÓN.md",
+    "PROTOCOLOS/SMB.md",
+    "PROTOCOLOS/NETBIOS.md",
+    "PROGRAMACION/SQL.md",
+    "PROGRAMACION/Python.md",
+    "PROGRAMACION/PHP.md",
+    "PROGRAMACION/Bash.md",
+    "OSINT/Shodan.md",
+    "HERRAMIENTAS/WFUZZ.md",
     "HERRAMIENTAS/PROXYCHAINS.md",
+    "HERRAMIENTAS/NMAP.md",
+    "HERRAMIENTAS/NETCAT.md",
+    "HERRAMIENTAS/MASSCAN.md",
+    "HERRAMIENTAS/HYDRA.md",
+    "HERRAMIENTAS/ENUM4LINUX.md",
     "HERRAMIENTAS/EMPIRE.md",
-    "GENERAL/Git.md",
-    "GENERAL/IP ROUTING.md",
-    "GENERAL/Hashes.md",
-    "OSINT/Google Dorks.md",
+    "HERRAMIENTAS/CRACKMAPEXEC.md",
+    "HERRAMIENTAS/BLOODHOUND.md",
     "Pasted image 20240318202216.png",
     "Pasted image 20240318202140.png",
     "Pasted image 20240318202147.png",
-    "HERRAMIENTAS/MIMIKATZ.md",
     "TryhackmeJPT",
-    "HERRAMIENTAS/JOHN.md",
-    "HERRAMIENTAS/HYDRA.md",
-    "HERRAMIENTAS/GOBUSTER.md",
-    "HERRAMIENTAS/ENUM4LINUX.md",
-    "HERRAMIENTAS/BLOODHOUND.md",
-    "HERRAMIENTAS/CRACKMAPEXEC.md",
-    "PROGRAMACION/PHP.md",
-    "HERRAMIENTAS/HASHCAT.md",
     "TECNICAS",
     "PROTOCOLOS",
     "PROGRAMACION",
