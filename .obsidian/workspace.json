@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "933cea6bdde9b0b0",
+        "id": "a3388dc52317aeaf",
         "type": "tabs",
         "children": [
           {
-            "id": "96cdd95bb3b12294",
+            "id": "430330abe5727024",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HERRAMIENTAS/SQLMAP.md",
+                "file": "TryhackmeJPT/notas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2d2bb3159bf5c2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HERRAMIENTAS/CHISEL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HERRAMIENTAS/SQLMAP.md",
+                "file": "HERRAMIENTAS/CHISEL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HERRAMIENTAS/SQLMAP.md",
+                "file": "HERRAMIENTAS/CHISEL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HERRAMIENTAS/SQLMAP.md"
+                "file": "HERRAMIENTAS/CHISEL.md"
               }
             }
           }
@@ -146,35 +159,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "96cdd95bb3b12294",
+  "active": "f2d2bb3159bf5c2c",
   "lastOpenFiles": [
+    "TECNICAS/Pivoting.md",
+    "HERRAMIENTAS/CHISEL.md",
+    "HERRAMIENTAS/GOBUSTER.md",
+    "HERRAMIENTAS/NIKTO.md",
+    "HERRAMIENTAS/NMAP.md",
+    "HERRAMIENTAS/MSFVENOM.md",
+    "HERRAMIENTAS/MASSCAN.md",
+    "HERRAMIENTAS/JOHN.md",
+    "HERRAMIENTAS/HASHCAT.md",
+    "HERRAMIENTAS/HYDRA.md",
+    "HERRAMIENTAS/ENUM4LINUX.md",
+    "HERRAMIENTAS/BLOODHOUND.md",
+    "HERRAMIENTAS/EMPIRE.md",
+    "HERRAMIENTAS/CRACKMAPEXEC.md",
+    "HERRAMIENTAS/METASPLOIT.md",
+    "Sin título.md",
+    "TryhackmeJPT/notas.md",
+    "Pasted image 20240318202216.png",
+    "README.md",
+    "OWASP/SQLi.md",
+    "Sin título.canvas",
+    "Sin título 1.canvas",
+    "EJPT/Borrador y cosas pendientes.md",
+    "HERRAMIENTAS/SQLMAP.md",
     "TECNICAS/ESCALADA DE PRIVILEGIOS WINDOWS.md",
     "TECNICAS/Escalada de privilegios LINUX.md",
-    "EJPT/Borrador y cosas pendientes.md",
     "TECNICAS/Pass the HASH.md",
     "TECNICAS/FUZZING.md",
     "TECNICAS/Fuerza bruta.md",
-    "TECNICAS/DISCOVERY.md",
-    "TECNICAS/Cracking.md",
-    "TECNICAS/BYPASS DE AUTENTICACIÓN.md",
-    "PROTOCOLOS/SMB.md",
-    "PROTOCOLOS/NETBIOS.md",
-    "PROGRAMACION/SQL.md",
-    "PROGRAMACION/Python.md",
-    "PROGRAMACION/PHP.md",
-    "PROGRAMACION/Bash.md",
-    "OSINT/Shodan.md",
-    "HERRAMIENTAS/WFUZZ.md",
-    "HERRAMIENTAS/PROXYCHAINS.md",
-    "HERRAMIENTAS/NMAP.md",
-    "HERRAMIENTAS/NETCAT.md",
-    "HERRAMIENTAS/MASSCAN.md",
-    "HERRAMIENTAS/HYDRA.md",
-    "HERRAMIENTAS/ENUM4LINUX.md",
-    "HERRAMIENTAS/EMPIRE.md",
-    "HERRAMIENTAS/CRACKMAPEXEC.md",
-    "HERRAMIENTAS/BLOODHOUND.md",
-    "Pasted image 20240318202216.png",
     "Pasted image 20240318202140.png",
     "Pasted image 20240318202147.png",
     "TryhackmeJPT",
