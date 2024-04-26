@@ -29,4 +29,7 @@ Similar a herramientas como
 | `--exclude` | Excluye ciertos códigos de estado HTTP de los resultados. | `gobuster dir -u http://a.com -w /a/dict.txt --exclude 403,404` |
 
 
+ejemplo de uso tipico 
+
+└─$ gobuster dir -u https://bizness.htb/ -w directory-list-2.3-medium.txt 
 
