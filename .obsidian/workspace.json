@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HERRAMIENTAS/CHISEL.md",
+                "file": "OWASP/SQLi.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HERRAMIENTAS/CHISEL.md",
+                "file": "OWASP/SQLi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HERRAMIENTAS/CHISEL.md",
+                "file": "OWASP/SQLi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HERRAMIENTAS/CHISEL.md"
+                "file": "OWASP/SQLi.md"
               }
             }
           }
@@ -161,35 +161,35 @@
   },
   "active": "f2d2bb3159bf5c2c",
   "lastOpenFiles": [
-    "TECNICAS/Pivoting.md",
-    "HERRAMIENTAS/CHISEL.md",
+    "PROGRAMACION/SQL.md",
+    "HERRAMIENTAS/SQLMAP.md",
+    "TECNICAS/FILE UPLOAD.md",
+    "HERRAMIENTAS/regeorg.md",
+    "OWASP/SQLi.md",
+    "TECNICAS/REVERSE SHELLS.md",
+    "GENERAL/IP ROUTING.md",
+    "GENERAL/LINUX/Archivos y comandos interesantes de Linux.md",
+    "PROTOCOLOS/SMB.md",
+    "EJPT/Borrador y cosas pendientes.md",
+    "HERRAMIENTAS/METASPLOIT.md",
+    "HERRAMIENTAS/MASSCAN.md",
+    "HERRAMIENTAS/JOHN.md",
+    "HERRAMIENTAS/impacket.md",
+    "HERRAMIENTAS/HYDRA.md",
+    "HERRAMIENTAS/HASHCAT.md",
     "HERRAMIENTAS/GOBUSTER.md",
+    "HERRAMIENTAS/ENUM4LINUX.md",
+    "HERRAMIENTAS/EMPIRE.md",
+    "HERRAMIENTAS/CRACKMAPEXEC.md",
+    "HERRAMIENTAS/CHISEL.md",
+    "HERRAMIENTAS/BLOODHOUND.md",
+    "TECNICAS/Pivoting.md",
     "HERRAMIENTAS/NIKTO.md",
     "HERRAMIENTAS/NMAP.md",
     "HERRAMIENTAS/MSFVENOM.md",
-    "HERRAMIENTAS/MASSCAN.md",
-    "HERRAMIENTAS/JOHN.md",
-    "HERRAMIENTAS/HASHCAT.md",
-    "HERRAMIENTAS/HYDRA.md",
-    "HERRAMIENTAS/ENUM4LINUX.md",
-    "HERRAMIENTAS/BLOODHOUND.md",
-    "HERRAMIENTAS/EMPIRE.md",
-    "HERRAMIENTAS/CRACKMAPEXEC.md",
-    "HERRAMIENTAS/METASPLOIT.md",
-    "Sin título.md",
-    "TryhackmeJPT/notas.md",
     "Pasted image 20240318202216.png",
-    "README.md",
-    "OWASP/SQLi.md",
     "Sin título.canvas",
     "Sin título 1.canvas",
-    "EJPT/Borrador y cosas pendientes.md",
-    "HERRAMIENTAS/SQLMAP.md",
-    "TECNICAS/ESCALADA DE PRIVILEGIOS WINDOWS.md",
-    "TECNICAS/Escalada de privilegios LINUX.md",
-    "TECNICAS/Pass the HASH.md",
-    "TECNICAS/FUZZING.md",
-    "TECNICAS/Fuerza bruta.md",
     "Pasted image 20240318202140.png",
     "Pasted image 20240318202147.png",
     "TryhackmeJPT",
