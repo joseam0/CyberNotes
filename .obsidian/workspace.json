@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryhackmeJPT/notas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2d2bb3159bf5c2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OWASP/SQLi.md",
+                "file": "PROGRAMACION/Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OWASP/SQLi.md",
+                "file": "PROGRAMACION/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OWASP/SQLi.md",
+                "file": "PROGRAMACION/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OWASP/SQLi.md"
+                "file": "PROGRAMACION/Python.md"
               }
             }
           }
@@ -159,13 +146,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f2d2bb3159bf5c2c",
+  "active": "430330abe5727024",
   "lastOpenFiles": [
-    "PROGRAMACION/SQL.md",
     "HERRAMIENTAS/SQLMAP.md",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "TryhackmeJPT/notas.md",
+    "OWASP/SQLi.md",
+    "PROGRAMACION/SQL.md",
     "TECNICAS/FILE UPLOAD.md",
     "HERRAMIENTAS/regeorg.md",
-    "OWASP/SQLi.md",
     "TECNICAS/REVERSE SHELLS.md",
     "GENERAL/IP ROUTING.md",
     "GENERAL/LINUX/Archivos y comandos interesantes de Linux.md",
@@ -185,11 +175,7 @@
     "HERRAMIENTAS/BLOODHOUND.md",
     "TECNICAS/Pivoting.md",
     "HERRAMIENTAS/NIKTO.md",
-    "HERRAMIENTAS/NMAP.md",
-    "HERRAMIENTAS/MSFVENOM.md",
     "Pasted image 20240318202216.png",
-    "Sin título.canvas",
-    "Sin título 1.canvas",
     "Pasted image 20240318202140.png",
     "Pasted image 20240318202147.png",
     "TryhackmeJPT",
