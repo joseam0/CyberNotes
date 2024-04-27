@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROGRAMACION/Python.md",
+                "file": "TECNICAS/ESCALADA DE PRIVILEGIOS WINDOWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROGRAMACION/Python.md",
+                "file": "TECNICAS/ESCALADA DE PRIVILEGIOS WINDOWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROGRAMACION/Python.md",
+                "file": "TECNICAS/ESCALADA DE PRIVILEGIOS WINDOWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROGRAMACION/Python.md"
+                "file": "TECNICAS/ESCALADA DE PRIVILEGIOS WINDOWS.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "430330abe5727024",
   "lastOpenFiles": [
+    "EJPT/Borrador y cosas pendientes.md",
+    "TECNICAS/REVERSE SHELLS.md",
+    "HERRAMIENTAS/NETCAT.md",
+    "PROGRAMACION/Python.md",
     "HERRAMIENTAS/SQLMAP.md",
     "Sin título 1.canvas",
     "Sin título.canvas",
@@ -156,11 +160,9 @@
     "PROGRAMACION/SQL.md",
     "TECNICAS/FILE UPLOAD.md",
     "HERRAMIENTAS/regeorg.md",
-    "TECNICAS/REVERSE SHELLS.md",
     "GENERAL/IP ROUTING.md",
     "GENERAL/LINUX/Archivos y comandos interesantes de Linux.md",
     "PROTOCOLOS/SMB.md",
-    "EJPT/Borrador y cosas pendientes.md",
     "HERRAMIENTAS/METASPLOIT.md",
     "HERRAMIENTAS/MASSCAN.md",
     "HERRAMIENTAS/JOHN.md",
@@ -174,7 +176,6 @@
     "HERRAMIENTAS/CHISEL.md",
     "HERRAMIENTAS/BLOODHOUND.md",
     "TECNICAS/Pivoting.md",
-    "HERRAMIENTAS/NIKTO.md",
     "Pasted image 20240318202216.png",
     "Pasted image 20240318202140.png",
     "Pasted image 20240318202147.png",
