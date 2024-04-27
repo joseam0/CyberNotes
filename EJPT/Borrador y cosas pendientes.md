@@ -1,4 +1,7 @@
-
+- [ ] evil-winrm
+- [ ] CME
+- [ ] WINRM
+- [ ] 
 
 -FOXYPROXY
 -WAPPALIZER
