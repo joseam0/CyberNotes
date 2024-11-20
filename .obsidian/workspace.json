@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECNICAS/BYPASS DE AUTENTICACIÓN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec040a0e2d2f110e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HERRAMIENTAS/CRACKMAPEXEC.md",
+                "file": "WEB/ENUMERACION.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HERRAMIENTAS/CRACKMAPEXEC.md",
+                "file": "WEB/ENUMERACION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HERRAMIENTAS/CRACKMAPEXEC.md",
+                "file": "WEB/ENUMERACION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HERRAMIENTAS/CRACKMAPEXEC.md"
+                "file": "WEB/ENUMERACION.md"
               }
             }
           }
@@ -159,39 +146,41 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ec040a0e2d2f110e",
+  "active": "5b43844351372583",
   "lastOpenFiles": [
-    "HERRAMIENTAS/ENUM4LINUX.md",
-    "HERRAMIENTAS/EMPIRE.md",
-    "HERRAMIENTAS/CRACKMAPEXEC.md",
+    "HERRAMIENTAS/CRUNCH.md",
+    "WEB/ENUMERACION.md",
     "HERRAMIENTAS/CHISEL.md",
-    "HERRAMIENTAS/BLOODHOUND.md",
-    "OSINT/Google Dorks.md",
-    "POST-EXPLOTAITION/COBALT STRIKE.md",
-    "PROTOCOLOS/NETBIOS.md",
-    "README.md",
-    "BLUE/DFIR",
-    "BLUE",
-    "GENERAL/LINUX/Archivos y comandos interesantes de Linux.md",
-    "GENERAL/IP ROUTING.md",
-    "GENERAL/Hashes.md",
-    "GENERAL/Git.md",
-    "CRTO",
-    "POST-EXPLOTAITION/EDR EVASION",
-    "EJPT/Borrador y cosas pendientes.md",
-    "POST-EXPLOTAITION",
+    "TECNICAS/BYPASS DE AUTENTICACIÓN.md",
+    "Sin título.canvas",
+    "HERRAMIENTAS/WPSCAN.md",
+    "HERRAMIENTAS/WFUZZ.md",
+    "HERRAMIENTAS/regeorg.md",
+    "HERRAMIENTAS/SQLMAP.md",
     "HERRAMIENTAS/NMAP.md",
-    "TryhackmeJPT/notas.md",
+    "HERRAMIENTAS/PROXYCHAINS.md",
+    "HERRAMIENTAS/NIKTO.md",
     "HERRAMIENTAS/NETCAT.md",
+    "HERRAMIENTAS/MSFVENOM.md",
     "HERRAMIENTAS/MIMIKATZ.md",
     "HERRAMIENTAS/METASPLOIT.md",
-    "HERRAMIENTAS/MSFVENOM.md",
+    "HERRAMIENTAS/MASSCAN.md",
     "HERRAMIENTAS/JOHN.md",
     "HERRAMIENTAS/HYDRA.md",
     "HERRAMIENTAS/GOBUSTER.md",
-    "TECNICAS/Pass the HASH.md",
-    "TECNICAS/Fuerza bruta.md",
-    "TECNICAS/ESCALADA DE PRIVILEGIOS WINDOWS.md",
+    "HERRAMIENTAS/EMPIRE.md",
+    "HERRAMIENTAS/impacket.md",
+    "HERRAMIENTAS/ENUM4LINUX.md",
+    "OSINT/Google Dorks.md",
+    "OSINT/Shodan.md",
+    "WEB/CSRF.md",
+    "WEB/LFI.md",
+    "ACTIVE DIRECTORY",
+    "BLUE/DFIR",
+    "BLUE",
+    "CRTO",
+    "POST-EXPLOTAITION/EDR EVASION",
+    "POST-EXPLOTAITION",
     "WREATH/GRAFICO.canvas",
     "EJPT/Pasted image 20240318202216.png",
     "Pasted image 20240515225844.jpg",
@@ -208,7 +197,6 @@
     "WREATH",
     "Sin título 1.canvas",
     "TryhackmeJPT",
-    "TECNICAS",
-    "PROTOCOLOS"
+    "TECNICAS"
   ]
 }
