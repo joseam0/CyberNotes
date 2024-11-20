@@ -1,28 +1,50 @@
+# Enumeración de Usuarios y Contraseñas
 
-# Enumeración de usuarios y contraseñas
--Prestar atención a la pagina de registro y los mensajes que da ej(este usuario ya existe, la contraseña debe ser superior a 8 caracteres y contener una letra mayúscula)
--Prestar atención a la sección "olvide mi contraseña"
--Prestar atención a mensajes de error al intentar logarnos
--Brechas de seguridad pasadas
+1. **Atención en la Página de Registro**  
+   - Observar los mensajes proporcionados, como:  
+     - "Este usuario ya existe."  
+     - "La contraseña debe ser superior a 8 caracteres y contener una letra mayúscula."
+
+2. **Sección "Olvidé mi Contraseña"**  
+   - Analizar los mensajes y flujos que podrían revelar información sobre la existencia de usuarios.
+
+3. **Mensajes de Error al Intentar Iniciar Sesión**  
+   - Revisar respuestas del sistema para detectar patrones o información útil.
+
+4. **Brechas de Seguridad Pasadas**  
+   - Investigar incidentes previos relacionados con el objetivo que puedan dar pistas sobre vulnerabilidades.
+
+---
 
 # Verbose Errors
--a veces las paginas web nos devuelven mensajes de error que nos pueden aportar informacion sobre la base de datos, el servidor que usan,rutas internas, usuarios existentes etc
-## ¿como causar estos errores?
 
--formulario de login
--SQL injection (añadiendo ' o " en un campo)
--Path Traversal (../../../)
+A veces, las páginas web pueden devolver mensajes de error que exponen información sensible, como:  
+- Detalles sobre la base de datos.  
+- Información del servidor utilizado.  
+- Rutas internas del sistema.  
+- Usuarios existentes.  
 
+## ¿Cómo Causar Estos Errores?
 
-# Enumeración usando wayback machine
--La herramienta se encuentra en el siguiente repo https://github.com/tomnomnom/waybackurls
+1. **Formulario de Login**  
+   - Introducir datos no válidos para provocar errores.  
 
-se ejecutan los siguientes comandos:
+2. **SQL Injection**  
+   - Probar con entradas como `'` o `"` en los campos.
 
-```
+3. **Path Traversal**  
+   - Usar patrones como `../../../` para intentar acceder a rutas internas.
+
+---
+
+# Enumeración Usando Wayback Machine
+
+- La herramienta necesaria se encuentra en el siguiente repositorio:  
+  [https://github.com/tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls)
+
+### Comandos:
+
+```bash
 sudo apt install golang-go -y
 go build
 ./waybackurls {objetivo}
-```
-
-
