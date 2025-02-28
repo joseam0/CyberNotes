@@ -1,0 +1,13 @@
+- [ ] evil-winrm
+- [ ] CME
+- [ ] WINRM
+- [ ] SMB
+- [ ] PIVOTING
+- [ ] ACCIONES TIPO
+- [ ] SCRIPTS DE NMAP
+- [ ] MODULOS DE METASPLOIT
+- [ ] ESCALADAS DE PRIVILEGIOS
+
+
+
+
