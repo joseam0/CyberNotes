@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "ef8fcb529e84ceb1",
+    "id": "fa2a9aee71417258",
     "type": "split",
     "children": [
       {
-        "id": "8e823e73d5e501f4",
+        "id": "a3388dc52317aeaf",
         "type": "tabs",
         "children": [
           {
-            "id": "04a71018f6f6bf37",
+            "id": "5b43844351372583",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberNotes-main/HERRAMIENTAS/EVIL-WINRM.md",
+                "file": "WEB/ENUMERACION.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "EVIL-WINRM"
+              "title": "ENUMERACION"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e90f568e4b27cc61",
+    "id": "1873c51afc413e1c",
     "type": "split",
     "children": [
       {
-        "id": "b297d759b8313de4",
+        "id": "3b0ffabe0f9326a4",
         "type": "tabs",
         "children": [
           {
-            "id": "184d943cdbde01c1",
+            "id": "7a0274bb2adcf867",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "47bf3a8e5e187bdf",
+            "id": "ee93396a68a8989b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "165689b44b3e7232",
+            "id": "9d1e0e6d9e6deec8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "8707ce209fd06234",
+    "id": "0463ea9a67f92c11",
     "type": "split",
     "children": [
       {
-        "id": "d120d7dab38595fd",
+        "id": "00b5febedb6bad73",
         "type": "tabs",
         "children": [
           {
-            "id": "e8de8544e941b9d8",
+            "id": "ada555caabee0152",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberNotes-main/ACTIVE DIRECTORY/COSAS BASICAS DE AD.md",
+                "file": "WEB/ENUMERACION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de COSAS BASICAS DE AD"
+              "title": "Enlaces entrantes de ENUMERACION"
             }
           },
           {
-            "id": "b53aa43715523194",
+            "id": "2afc8bdec5b3d894",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberNotes-main/ACTIVE DIRECTORY/COSAS BASICAS DE AD.md",
+                "file": "WEB/ENUMERACION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de COSAS BASICAS DE AD"
+              "title": "Enlaces salientes de ENUMERACION"
             }
           },
           {
-            "id": "02aa54eb659cbdeb",
+            "id": "81d64e2f22b03c05",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "848b73cfb9089e4b",
+            "id": "71be75b236856cfc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberNotes-main/ACTIVE DIRECTORY/COSAS BASICAS DE AD.md",
+                "file": "WEB/ENUMERACION.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de COSAS BASICAS DE AD"
+              "title": "Esquema de ENUMERACION"
             }
           }
         ]
@@ -160,54 +160,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "04a71018f6f6bf37",
+  "active": "5b43844351372583",
   "lastOpenFiles": [
-    "CyberNotes-main/HERRAMIENTAS/SECRETSDUMP.md",
-    "CyberNotes-main/HERRAMIENTAS/EVIL-WINRM.md",
-    "PUERTOS DE INTERES/88.md",
-    "PUERTOS DE INTERES/445.md",
-    "PUERTOS DE INTERES/139.md",
-    "CyberNotes-main/ACTIVE DIRECTORY/GLOSARIO.md",
-    "PUERTOS DE INTERES",
-    "CyberNotes-main/ACTIVE DIRECTORY/COSAS BASICAS DE AD.md",
-    "Sin título.canvas",
-    "README.md",
-    "ACTIVE DIRECTORY/COSAS BASICAS DE AD.md",
-    "CyberNotes-main/HERRAMIENTAS/SMBCLIENT.md",
-    "HERRAMIENTAS/RESPONDER.md",
-    "WEB/XSS.md",
-    "WEB/SSRF.md",
-    "WEB/SQLi.md",
-    "WEB/Log Poisoning.md",
-    "WEB/LFI.md",
+    "HERRAMIENTAS/CRUNCH.md",
     "WEB/ENUMERACION.md",
+    "HERRAMIENTAS/CHISEL.md",
+    "TECNICAS/BYPASS DE AUTENTICACIÓN.md",
+    "Sin título.canvas",
+    "HERRAMIENTAS/WPSCAN.md",
+    "HERRAMIENTAS/WFUZZ.md",
+    "HERRAMIENTAS/regeorg.md",
+    "HERRAMIENTAS/SQLMAP.md",
+    "HERRAMIENTAS/NMAP.md",
+    "HERRAMIENTAS/PROXYCHAINS.md",
+    "HERRAMIENTAS/NIKTO.md",
+    "HERRAMIENTAS/NETCAT.md",
+    "HERRAMIENTAS/MSFVENOM.md",
+    "HERRAMIENTAS/MIMIKATZ.md",
+    "HERRAMIENTAS/METASPLOIT.md",
+    "HERRAMIENTAS/MASSCAN.md",
+    "HERRAMIENTAS/JOHN.md",
+    "HERRAMIENTAS/HYDRA.md",
+    "HERRAMIENTAS/GOBUSTER.md",
+    "HERRAMIENTAS/EMPIRE.md",
+    "HERRAMIENTAS/impacket.md",
+    "HERRAMIENTAS/ENUM4LINUX.md",
+    "OSINT/Google Dorks.md",
+    "OSINT/Shodan.md",
     "WEB/CSRF.md",
-    "WEB",
-    "TECNICAS/REVERSE SHELLS.md",
-    "TECNICAS/Pivoting.md",
-    "TECNICAS/Pass the HASH.md",
-    "TECNICAS/Fuerza bruta.md",
-    "TECNICAS/FUZZING.md",
-    "TECNICAS/FILE UPLOAD.md",
-    "TECNICAS/Escalada de privilegios LINUX.md",
-    "TECNICAS/ESCALADA DE PRIVILEGIOS WINDOWS.md",
-    "TECNICAS",
-    "PROTOCOLOS",
-    "PROGRAMACION",
+    "WEB/LFI.md",
+    "ACTIVE DIRECTORY",
+    "BLUE/DFIR",
+    "BLUE",
+    "CRTO",
+    "POST-EXPLOTAITION/EDR EVASION",
     "POST-EXPLOTAITION",
-    "OSINT",
-    "HERRAMIENTAS",
-    "GENERAL/LINUX",
-    "GENERAL\\LINUX",
+    "WREATH/GRAFICO.canvas",
     "EJPT/Pasted image 20240318202216.png",
-    "CyberNotes-main/EJPT/Pasted image 20240318202216.png"
+    "Pasted image 20240515225844.jpg",
+    "Pasted image 20240515225934.png",
+    "EJPT/assets/Pasted image 20240515183611.png",
+    "Pasted image 20240515183619.png",
+    "Pasted image 20240515183748.png",
+    "Pasted image 20240515183808.png",
+    "EJPT/assets",
+    "a747a16f-f878-4732-a550-28b1768f80c3.webp",
+    "c68e5d19-8c0d-445c-b6b5-fb6532d693f2.webp",
+    "c8013f03-77e6-4723-87c5-575d60988fc5.webp",
+    "WREATH/Sin título.canvas",
+    "WREATH",
+    "Sin título 1.canvas",
+    "TryhackmeJPT",
+    "TECNICAS"
   ]
 }
