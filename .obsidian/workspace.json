@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a3388dc52317aeaf",
+        "id": "bc588cd25b0b1e88",
         "type": "tabs",
         "children": [
           {
-            "id": "5b43844351372583",
+            "id": "cc6360a6e2d61f50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/ENUMERACION.md",
-                "mode": "source",
-                "source": true
+                "file": "ACTIVE DIRECTORY/COSAS BASICAS DE AD.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "ENUMERACION"
+              "title": "COSAS BASICAS DE AD"
             }
           }
         ]
@@ -73,8 +73,19 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
+          },
+          {
+            "id": "155893b84af3a227",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/ENUMERACION.md",
+                "file": "CRTP/ENUMERACION DE AD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de ENUMERACION"
+              "title": "Enlaces entrantes de ENUMERACION DE AD"
             }
           },
           {
@@ -113,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/ENUMERACION.md",
+                "file": "CRTP/ENUMERACION DE AD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de ENUMERACION"
+              "title": "Enlaces salientes de ENUMERACION DE AD"
             }
           },
           {
@@ -128,9 +139,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Etiquetas"
@@ -142,13 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB/ENUMERACION.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "CRTP/ENUMERACION DE AD.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de ENUMERACION"
+              "title": "Esquema de ENUMERACION DE AD"
             }
           }
         ]
@@ -168,57 +174,57 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5b43844351372583",
+  "active": "cc6360a6e2d61f50",
   "lastOpenFiles": [
+    "ACTIVE DIRECTORY/GLOSARIO.md",
+    "ACTIVE DIRECTORY/COSAS BASICAS DE AD.md",
+    "CRTP/CRTP.md",
+    "CRTP/Sin título.md",
+    "CRTP/Sin título 1.md",
     "HERRAMIENTAS/CRUNCH.md",
-    "WEB/ENUMERACION.md",
-    "HERRAMIENTAS/CHISEL.md",
-    "TECNICAS/BYPASS DE AUTENTICACIÓN.md",
+    "CRTP/acls.md",
+    "HERRAMIENTAS/HERRAMIENTAS.md",
+    "ADJUNTOS/ADJUNTOS.md",
+    "GENERAL/Hashes.md",
+    "Tags",
+    "Pasted image 20250306185227.png",
     "Sin título.canvas",
-    "HERRAMIENTAS/WPSCAN.md",
-    "HERRAMIENTAS/WFUZZ.md",
-    "HERRAMIENTAS/regeorg.md",
-    "HERRAMIENTAS/SQLMAP.md",
-    "HERRAMIENTAS/NMAP.md",
-    "HERRAMIENTAS/PROXYCHAINS.md",
-    "HERRAMIENTAS/NIKTO.md",
-    "HERRAMIENTAS/NETCAT.md",
-    "HERRAMIENTAS/MSFVENOM.md",
-    "HERRAMIENTAS/MIMIKATZ.md",
-    "HERRAMIENTAS/METASPLOIT.md",
-    "HERRAMIENTAS/MASSCAN.md",
-    "HERRAMIENTAS/JOHN.md",
-    "HERRAMIENTAS/HYDRA.md",
-    "HERRAMIENTAS/GOBUSTER.md",
-    "HERRAMIENTAS/EMPIRE.md",
-    "HERRAMIENTAS/impacket.md",
-    "HERRAMIENTAS/ENUM4LINUX.md",
-    "OSINT/Google Dorks.md",
-    "OSINT/Shodan.md",
-    "WEB/CSRF.md",
-    "WEB/LFI.md",
+    "ADJUNTOS",
+    "PLANTILLAS",
+    "PUERTOS DE INTERES/88.md",
+    "PUERTOS DE INTERES/445.md",
+    "PUERTOS DE INTERES/139.md",
+    "PUERTOS DE INTERES",
+    "PROGRAMACION Y SCRIPTING/SQL.md",
+    "PROGRAMACION Y SCRIPTING/Python.md",
+    "PROGRAMACION Y SCRIPTING/Powershell.md",
+    "PROGRAMACION Y SCRIPTING/PHP.md",
+    "PROGRAMACION Y SCRIPTING/Bash.md",
+    "PROGRAMACION Y SCRIPTING",
+    "HERRAMIENTAS/SMBCLIENT.md",
+    "HERRAMIENTAS/SECRETSDUMP.md",
+    "HERRAMIENTAS/EVIL-WINRM.md",
+    "EJPT/Borrador y cosas pendientes.md",
+    "EJPT/Pasted image 20240318202216.png",
+    "CRTP/LOCAL PRIVESC.md",
+    "CRTP/POWERSHELL.md",
+    "CRTP/herramientas.md",
+    "CRTP/general (conceptos).md",
+    "CRTP",
     "ACTIVE DIRECTORY",
     "BLUE/DFIR",
     "BLUE",
     "CRTO",
-    "POST-EXPLOTAITION/EDR EVASION",
-    "POST-EXPLOTAITION",
     "WREATH/GRAFICO.canvas",
-    "EJPT/Pasted image 20240318202216.png",
     "Pasted image 20240515225844.jpg",
     "Pasted image 20240515225934.png",
     "EJPT/assets/Pasted image 20240515183611.png",
     "Pasted image 20240515183619.png",
     "Pasted image 20240515183748.png",
     "Pasted image 20240515183808.png",
-    "EJPT/assets",
     "a747a16f-f878-4732-a550-28b1768f80c3.webp",
     "c68e5d19-8c0d-445c-b6b5-fb6532d693f2.webp",
-    "c8013f03-77e6-4723-87c5-575d60988fc5.webp",
     "WREATH/Sin título.canvas",
-    "WREATH",
-    "Sin título 1.canvas",
-    "TryhackmeJPT",
-    "TECNICAS"
+    "Sin título 1.canvas"
   ]
 }
