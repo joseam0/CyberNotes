@@ -1,5 +1,10 @@
 [
   "git-sync",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian42-brat"
+  "fast-text-color",
+  "obsidian-file-color",
+  "OA-file-hider",
+  "obsidian-icon-folder",
+  "editing-toolbar",
+  "make-md"
 ]
