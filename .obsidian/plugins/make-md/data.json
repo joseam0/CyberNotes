@@ -35,12 +35,16 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//BLUE/BLUE/DFIR",
-    "ACTIVE DIRECTORY",
     "//ADJUNTOS",
     "//CRTO",
-    "//ACTIVE DIRECTORY"
+    "//ACTIVE DIRECTORY",
+    "CRTP",
+    "ACTIVE DIRECTORY",
+    "PLANTILLAS",
+    "PLANTILLAS/PLANTILLAS/DOMINIO",
+    "PLANTILLAS/PLANTILLAS/DOMINIO/PLANTILLAS/DOMINIO/GRUPOS",
+    "CRTP/CRTP/clases"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
