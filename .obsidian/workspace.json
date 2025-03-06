@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bc588cd25b0b1e88",
+        "id": "343240fd4f3b51a3",
         "type": "tabs",
         "children": [
           {
-            "id": "cc6360a6e2d61f50",
+            "id": "0a3a1f3335075053",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ACTIVE DIRECTORY/COSAS BASICAS DE AD.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "COSAS BASICAS DE AD"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -75,7 +71,7 @@
             }
           },
           {
-            "id": "155893b84af3a227",
+            "id": "909aeac6dddb7f4d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,12 +80,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 753.5
   },
   "right": {
     "id": "0463ea9a67f92c11",
@@ -174,47 +169,48 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cc6360a6e2d61f50",
+  "active": "0a3a1f3335075053",
   "lastOpenFiles": [
-    "ACTIVE DIRECTORY/GLOSARIO.md",
-    "ACTIVE DIRECTORY/COSAS BASICAS DE AD.md",
-    "CRTP/CRTP.md",
-    "CRTP/Sin título.md",
-    "CRTP/Sin título 1.md",
-    "HERRAMIENTAS/CRUNCH.md",
-    "CRTP/acls.md",
-    "HERRAMIENTAS/HERRAMIENTAS.md",
-    "ADJUNTOS/ADJUNTOS.md",
-    "GENERAL/Hashes.md",
+    "CRTP/clases/clases.md",
+    "CRTP/clases/19 - Privilege Escalation - GPO Abuse.md",
+    "CRTP/clases/16 - Domain Enumeration - User Hunting.md",
+    "CRTP/clases/13 - Learning Objective 3.md",
+    "CRTP/clases/10 - Domain Enumeration - ACLs.md",
+    "CRTP/clases/07 - Domain Enumeration.md",
+    "CRTP/clases/04 - Offensive .NET.md",
+    "CRTP/clases/03 - PowerShell.md",
+    "CRTP/clases/02 - Active Directory.md",
+    "CRTP/clases/05 - The Lab Portal.md",
+    "CRTP/clases/01 - Introduction 1 1 1 2.md",
+    "CRTP/clases/01 - Introduction 1 1 1 1 4 4 2 2.md",
+    "CRTP/clases/01 - Introduction.md",
+    "CRTP/clases/47 - Detection and Defense & Conclusion.md",
+    "CRTP/clases/46 - Introduction to EDR - MDE & Learning Objective 23.md",
+    "CRTP/clases/45 - Trust Abuse - MSSQL Servers.md",
+    "CRTP/clases/44 - AD CS & Learning Objective 21.md",
+    "CRTP/clases/43 - Kerberos - Across External Trusts & Learning Objective 20.md",
+    "CRTP/clases/42 - Krbtgt Secret Abuse & Learning Objective 19.md",
+    "CRTP/clases/41 - Across Trusts & Learning Objective 18.md",
+    "CRTP/clases/40 - RBCD & Learning Objective 17.md",
+    "CRTP/clases/39 - Constrained Delegation & Learning Objective 16.md",
+    "CRTP/clases/38 - Learning Objective 15.md",
+    "CRTP/clases/37 - Kerberos Delegation & Unconstrained Delegation.md",
+    "CRTP/clases/36 - Kerberoasting.md",
+    "CRTP/clases/35 - Security Descriptors & Learning Objective 13.md",
+    "CRTP/clases",
+    "PLANTILLAS",
+    "PLANTILLAS/DOMINIO/HOSTS",
+    "PLANTILLAS/DOMINIO/GRUPOS",
+    "PLANTILLAS/DOMINIO",
+    "ADJUNTOS/Pasted image 20250306231458.png",
     "Tags",
     "Pasted image 20250306185227.png",
     "Sin título.canvas",
     "ADJUNTOS",
     "PLANTILLAS",
-    "PUERTOS DE INTERES/88.md",
-    "PUERTOS DE INTERES/445.md",
-    "PUERTOS DE INTERES/139.md",
     "PUERTOS DE INTERES",
-    "PROGRAMACION Y SCRIPTING/SQL.md",
-    "PROGRAMACION Y SCRIPTING/Python.md",
-    "PROGRAMACION Y SCRIPTING/Powershell.md",
-    "PROGRAMACION Y SCRIPTING/PHP.md",
-    "PROGRAMACION Y SCRIPTING/Bash.md",
     "PROGRAMACION Y SCRIPTING",
-    "HERRAMIENTAS/SMBCLIENT.md",
-    "HERRAMIENTAS/SECRETSDUMP.md",
-    "HERRAMIENTAS/EVIL-WINRM.md",
-    "EJPT/Borrador y cosas pendientes.md",
     "EJPT/Pasted image 20240318202216.png",
-    "CRTP/LOCAL PRIVESC.md",
-    "CRTP/POWERSHELL.md",
-    "CRTP/herramientas.md",
-    "CRTP/general (conceptos).md",
-    "CRTP",
-    "ACTIVE DIRECTORY",
-    "BLUE/DFIR",
-    "BLUE",
-    "CRTO",
     "WREATH/GRAFICO.canvas",
     "Pasted image 20240515225844.jpg",
     "Pasted image 20240515225934.png",
@@ -223,7 +219,6 @@
     "Pasted image 20240515183748.png",
     "Pasted image 20240515183808.png",
     "a747a16f-f878-4732-a550-28b1768f80c3.webp",
-    "c68e5d19-8c0d-445c-b6b5-fb6532d693f2.webp",
     "WREATH/Sin título.canvas",
     "Sin título 1.canvas"
   ]
