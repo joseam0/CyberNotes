@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "343240fd4f3b51a3",
+        "id": "71501266aedfb571",
         "type": "tabs",
         "children": [
           {
-            "id": "0a3a1f3335075053",
+            "id": "5b18e02272d062d9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,7 +169,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0a3a1f3335075053",
+  "active": "5b18e02272d062d9",
   "lastOpenFiles": [
     "CRTP/clases/clases.md",
     "CRTP/clases/19 - Privilege Escalation - GPO Abuse.md",
