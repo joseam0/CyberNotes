@@ -13,5 +13,66 @@
       "value": "#5ed9d1"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "ACTIVE DIRECTORY",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "ADJUNTOS",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "CRTP",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "EJPT",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "GENERAL",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "GENERAL\\LINUX",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "HERRAMIENTAS",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "OSINT",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "POST-EXPLOTAITION",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "PROGRAMACION",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "PROGRAMACION Y SCRIPTING",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "PROTOCOLOS",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "PUERTOS DE INTERES",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "TECNICAS",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "WEB",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    }
+  ]
 }
