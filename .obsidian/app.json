@@ -1,4 +1,7 @@
 {
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "ADJUNTOS"
+  "attachmentFolderPath": "ADJUNTOS",
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "autoConvertHtml": true
 }
