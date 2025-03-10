@@ -1,7 +1,11 @@
 [
   "git-sync",
   "cm-editor-syntax-highlight-obsidian",
+  "fast-text-color",
+  "obsidian-file-color",
+  "OA-file-hider",
+  "obsidian-icon-folder",
+  "table-editor-obsidian",
   "obsidian42-brat",
-  "obsidian-minimal-settings",
-  "obsidian-file-color"
+  "editing-toolbar"
 ]
