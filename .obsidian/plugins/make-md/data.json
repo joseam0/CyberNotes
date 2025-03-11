@@ -20,7 +20,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 1,
+  "currentWaypoint": 2,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -44,7 +44,8 @@
     "PLANTILLAS",
     "PLANTILLAS/PLANTILLAS/DOMINIO",
     "PLANTILLAS/PLANTILLAS/DOMINIO/PLANTILLAS/DOMINIO/GRUPOS",
-    "CRTP/CRTP/clases"
+    "CRTP/CRTP/clases",
+    "ADJUNTOS"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
