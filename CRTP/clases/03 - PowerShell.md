@@ -1,3 +1,6 @@
+
+12-32
+
 - Para enumeracion se usara powershell
 - instalado de fabrica en todos los windows
 - powershell no es powershell.exe es una dll, **System.Management.Automation.dll**
@@ -147,4 +150,5 @@ RunWithPathAsAdmin.bat
 RunWithRegistryNonAdmin.bat
 ```
 
-12-32
+
+
