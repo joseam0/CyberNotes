@@ -14,3 +14,5 @@
 | Organizational Unit       |                                                                                                |
 | AMSI                      | justo antes de la ejecucion de un script amsi envia el comando al antivirus en busca de firmas |
 | enterprise admin          | basicamente son los admins del bosque, no solo de un dominio                                   |
+| ACL                       |                                                                                                |
+| ACE                       |                                                                                                |
