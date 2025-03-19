@@ -2,6 +2,31 @@
 
 presenta las herramientas que se van a usar para enumerar el AD
 
+vemos que se pueden enumerar dominios, politicas,domain controllers,, usuarios, grupo
+
+enumerar politicas nos puede servir para ver la kerberos policy, que tiene que ser compatible con los tickets que forjemos
+
+tambien es importante prestar atencion al logoncount, para detectar posibles decoys/honeypot
+
+listando los grupos podemos buscar grupos de admins
+
+enterprise admins es un grupo que esta en la raiz del bosque, nunca en dominios hijos
+
+uno de los mayores problemas en entornos de AD es que hay muchos domain admins comenta el instructor
+
+la diferencia entre un domain admin y el enterprise admin es que el enterprise admin tiene acceso administrador a todos los domain controllers mientras que el domain admin solo 
+
+
+SID acabados entre 500 y 1000 estan reservados para domain admins
+
+aconseja mantenernos lejos de los domain admins ya que son los mas protegidos y monitorizados, aconseja no ir directamente a por ellos
+
+enseña la herramienta PowerHuntShares, que sirve para enumerar shares
+
+
+
+
+
 
 
 
