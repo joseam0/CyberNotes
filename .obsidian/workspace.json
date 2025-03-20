@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRTP/clases/10 - Domain Enumeration - ACLs.md",
+                "file": "CRTP/POWERSHELL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Domain Enumeration - ACLs"
+              "title": "POWERSHELL"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRTP/CONSTRAINED DELEGATION.md",
+                "file": "ACTIVE DIRECTORY/GLOSARIO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CONSTRAINED DELEGATION"
+              "title": "GLOSARIO"
             }
           },
           {
@@ -41,23 +41,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRTP/acls.md",
+                "file": "CRTP/clases/13 - Learning Objective 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "acls"
+              "title": "13 - Learning Objective 3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "b5b60d7b79b28d06",
+        "id": "e4da9f3f556d8e51",
         "type": "tabs",
         "children": [
           {
-            "id": "a5c1eedcd3c09b4f",
+            "id": "c6660f0fa0f8b75b",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -216,15 +215,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7b0706c5f7bbc6a1",
+  "active": "9944753de6a50880",
   "lastOpenFiles": [
-    "ACTIVE DIRECTORY/GLOSARIO.md",
     "CRTP/clases/10 - Domain Enumeration - ACLs.md",
-    "CRTP/clases/09 - Learning Objective 1.md",
-    "CRTP/clases/08 - Domain Enumeration - BloodHound & SOAPHound.md",
+    "CRTP/clases/13 - Learning Objective 3.md",
+    "CRTP/clases/14 - Domain Enumeration - Trusts.md",
+    "CRTP/clases/12 - Domain Enumeration - Group policy (GPO, OU).md",
+    "ACTIVE DIRECTORY/GLOSARIO.md",
     "ADJUNTOS/Attacking_and_Defending_ActiveDirectory.pdf",
     "CRTP/CONSTRAINED DELEGATION.md",
+    "CRTP/clases/11 - Learning Objective 2.md",
     "CRTP/acls.md",
+    "CRTP/clases/09 - Learning Objective 1.md",
+    "CRTP/clases/08 - Domain Enumeration - BloodHound & SOAPHound.md",
     "CRTP/AS-REPROAST.md",
     "CRTP/KERBEROAST.md",
     "CRTP/DCSYNC.md",
@@ -243,10 +246,6 @@
     "ADJUNTOS/Pasted image 20250312225720.png",
     "CRTP/HERRAMIENTAS USADAS/powerview.md",
     "CRTP/HERRAMIENTAS USADAS/Nimcrypt2.md",
-    "CRTP/HERRAMIENTAS USADAS/Netloader.md",
-    "CRTP/HERRAMIENTAS USADAS/INVISI-SHELL.md",
-    "CRTP/HERRAMIENTAS USADAS/CsWhispers.md",
-    "CRTP/HERRAMIENTAS USADAS/Confuserex.md",
     "CRTP/HERRAMIENTAS USADAS",
     "CRTP\\HERRAMIENTAS USADAS",
     "CRTP\\clases",
