@@ -18,3 +18,7 @@
 | ACE                       |                                                                                                                                                   |
 | GPO                       | A GPO is a virtual collection of policy settings, security permissions, and scope of management (SOM) that you can apply to users and computers.. |
 | OU                        | the lowest-level AD container to which GPO can be applied                                                                                         |
+| LSA                       |                                                                                                                                                   |
+| LSASS                     |                                                                                                                                                   |
+| krbtgt                    |                                                                                                                                                   |
+|                           |                                                                                                                                                   |
