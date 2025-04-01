@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRTP/HERRAMIENTAS USADAS/PSReadLineoption module.md",
+                "file": "ACTIVE DIRECTORY/GLOSARIO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PSReadLineoption module"
+              "title": "GLOSARIO"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACTIVE DIRECTORY/GLOSARIO.md",
+                "file": "CRTP/clases/14 - Domain Enumeration - Trusts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GLOSARIO"
+              "title": "14 - Domain Enumeration - Trusts"
             }
           }
         ],
@@ -125,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 282.5
   },
   "right": {
     "id": "0463ea9a67f92c11",
@@ -217,16 +217,20 @@
   },
   "active": "a9f5a0f3e1ee12b5",
   "lastOpenFiles": [
-    "CRTP/HERRAMIENTAS USADAS/PSReadLineoption module.md",
-    "ACTIVE DIRECTORY/GLOSARIO.md",
-    "CRTP/CRTP.md",
-    "CRTP/clases/14 - Domain Enumeration - Trusts.md",
-    "CRTP/clases/13 - Learning Objective 3.md",
     "CRTP/clases/12 - Domain Enumeration - Group policy (GPO, OU).md",
-    "CRTP/clases/11 - Learning Objective 2.md",
-    "CRTP/clases/10 - Domain Enumeration - ACLs.md",
-    "CRTP/clases/09 - Learning Objective 1.md",
+    "CRTP/clases/13 - Learning Objective 3.md",
     "CRTP/clases/08 - Domain Enumeration - BloodHound & SOAPHound.md",
+    "CRTP/clases/09 - Learning Objective 1.md",
+    "CRTP/clases/10 - Domain Enumeration - ACLs.md",
+    "CRTP/clases/14 - Domain Enumeration - Trusts.md",
+    "ACTIVE DIRECTORY/GLOSARIO.md",
+    "CRTP/HERRAMIENTAS USADAS/PSReadLineoption module.md",
+    "CRTP/clases/11 - Learning Objective 2.md",
+    "CRTP/clases/07 - Domain Enumeration.md",
+    "CRTP/clases/06 - Methodology & Lab Environment.md",
+    "CRTP/clases/04 - Offensive .NET.md",
+    "CRTP/clases/05 - The Lab Portal.md",
+    "CRTP/CRTP.md",
     "CRTP\\clases",
     "CRTP/KERBEROAST.md",
     "CRTP/HERRAMIENTAS USADAS/PowerHuntShares.md",
@@ -236,14 +240,10 @@
     "CRTP/AS-REPROAST.md",
     "ffuf.md",
     "TECNICAS/BYPASS DE AUTENTICACIÓN.md",
-    "CRTP/clases/07 - Domain Enumeration.md",
     "ADJUNTOS/Attacking_and_Defending_ActiveDirectory.pdf",
     "ADJUNTOS/Pasted image 20250312230314.png",
     "ADJUNTOS/Pasted image 20250312225720.png",
-    "CRTP/clases/06 - Methodology & Lab Environment.md",
     "CRTP/clases/03 - PowerShell.md",
-    "CRTP/clases/04 - Offensive .NET.md",
-    "CRTP/clases/05 - The Lab Portal.md",
     "CRTP/HERRAMIENTAS USADAS/AD-module.md",
     "CRTP/HERRAMIENTAS USADAS/powerview.md",
     "CRTP/HERRAMIENTAS USADAS/Nimcrypt2.md",
