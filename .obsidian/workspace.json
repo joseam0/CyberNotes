@@ -4,68 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "400f5a6ee80bbc24",
+        "id": "32e247af30d31aa3",
         "type": "tabs",
         "children": [
           {
-            "id": "a9462f03f81785f9",
+            "id": "e1cf3611a7ccd673",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECNICAS/BYPASS DE AUTENTICACIÓN.md",
+                "file": "GENERAL/Hashes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BYPASS DE AUTENTICACIÓN"
-            }
-          },
-          {
-            "id": "3ac4a37ff5238042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ACTIVE DIRECTORY/GLOSARIO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GLOSARIO"
-            }
-          },
-          {
-            "id": "a9f5a0f3e1ee12b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CRTP/clases/14 - Domain Enumeration - Trusts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14 - Domain Enumeration - Trusts"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "b4e582b480ba4b17",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "51bba3d1841a5070",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ADJUNTOS/Attacking_and_Defending_ActiveDirectory.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Attacking_and_Defending_ActiveDirectory"
+              "title": "Hashes"
             }
           }
         ]
@@ -125,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 408.5
   },
   "right": {
     "id": "0463ea9a67f92c11",
@@ -141,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRTP/HERRAMIENTAS USADAS/AD-module.md",
+                "file": "WEB/ENUMERACION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de AD-module"
+              "title": "Enlaces entrantes de ENUMERACION"
             }
           },
           {
@@ -160,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRTP/ENUMERACION DE AD.md",
+                "file": "WEB/ENUMERACION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de ENUMERACION DE AD"
+              "title": "Enlaces salientes de ENUMERACION"
             }
           },
           {
@@ -175,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Etiquetas"
@@ -187,17 +142,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRTP/HERRAMIENTAS USADAS/AD-module.md",
+                "file": "WEB/ENUMERACION.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de AD-module"
+              "title": "Esquema de ENUMERACION"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,65 +160,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian42-brat:BRAT": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a9f5a0f3e1ee12b5",
+  "active": "e1cf3611a7ccd673",
   "lastOpenFiles": [
-    "CRTP/clases/12 - Domain Enumeration - Group policy (GPO, OU).md",
-    "CRTP/clases/13 - Learning Objective 3.md",
-    "CRTP/clases/08 - Domain Enumeration - BloodHound & SOAPHound.md",
-    "CRTP/clases/09 - Learning Objective 1.md",
-    "CRTP/clases/10 - Domain Enumeration - ACLs.md",
-    "CRTP/clases/14 - Domain Enumeration - Trusts.md",
+    "GENERAL/HASHES/LM.md",
+    "GENERAL/HASHES/NT HASH O NTLM a secas.md",
+    "GENERAL/HASHES/NTLMV2.md",
+    "GENERAL/HASHES/NTLMV1.md",
+    "GENERAL/HASHES/NET-NTLM.md",
+    "ffuf.md",
+    "GENERAL/Hashes.md",
+    "GENERAL/HASHES",
+    "CRTP/HERRAMIENTAS USADAS/POWERSHELL.md",
+    "CRTP\\clases",
+    "ADJUNTOS/Attacking_and_Defending_ActiveDirectory.pdf",
+    "CRTP/TECNICAS/KERBEROAST.md",
+    "CRTP/Sin título.md",
+    "CRTP/general (conceptos).md",
+    "CRTP/ENUMERACION DE AD.md",
+    "CRTP/TECNICAS/DCSYNC.md",
+    "CRTP/TECNICAS/AS-REPROAST.md",
     "ACTIVE DIRECTORY/GLOSARIO.md",
-    "CRTP/HERRAMIENTAS USADAS/PSReadLineoption module.md",
-    "CRTP/clases/11 - Learning Objective 2.md",
-    "CRTP/clases/07 - Domain Enumeration.md",
-    "CRTP/clases/06 - Methodology & Lab Environment.md",
+    "CRTP/TECNICAS",
+    "CRTP/clases/38 - Learning Objective 15.md",
+    "CRTP/clases/13 - Learning Objective 3.md",
+    "CRTP/clases/01 - Introduction.md",
+    "CRTP/clases/02 - Active Directory.md",
+    "CRTP/clases/03 - PowerShell.md",
     "CRTP/clases/04 - Offensive .NET.md",
     "CRTP/clases/05 - The Lab Portal.md",
-    "CRTP/CRTP.md",
-    "CRTP\\clases",
-    "CRTP/KERBEROAST.md",
-    "CRTP/HERRAMIENTAS USADAS/PowerHuntShares.md",
+    "CRTP/clases/06 - Methodology & Lab Environment.md",
+    "CRTP/clases/07 - Domain Enumeration.md",
+    "CRTP/clases/10 - Domain Enumeration - ACLs.md",
+    "CRTP/clases/09 - Learning Objective 1.md",
     "CRTP\\HERRAMIENTAS USADAS",
-    "CRTP/DCSYNC.md",
-    "CRTP/CONSTRAINED DELEGATION.md",
-    "CRTP/AS-REPROAST.md",
-    "ffuf.md",
-    "TECNICAS/BYPASS DE AUTENTICACIÓN.md",
-    "ADJUNTOS/Attacking_and_Defending_ActiveDirectory.pdf",
     "ADJUNTOS/Pasted image 20250312230314.png",
     "ADJUNTOS/Pasted image 20250312225720.png",
-    "CRTP/clases/03 - PowerShell.md",
-    "CRTP/HERRAMIENTAS USADAS/AD-module.md",
-    "CRTP/HERRAMIENTAS USADAS/powerview.md",
-    "CRTP/HERRAMIENTAS USADAS/Nimcrypt2.md",
-    "CRTP/HERRAMIENTAS USADAS/CsWhispers.md",
     "CRTP/HERRAMIENTAS USADAS",
     "ADJUNTOS/Pasted image 20250310204918.png",
-    "Sin título.canvas",
     "CRTP/clases",
-    "PLANTILLAS",
-    "PLANTILLAS/DOMINIO/HOSTS",
-    "PLANTILLAS/DOMINIO/GRUPOS",
-    "PLANTILLAS/DOMINIO",
+    "PROGRAMACION",
+    "GENERAL\\LINUX",
+    "CRTP",
     "ADJUNTOS/Pasted image 20250306231458.png",
-    "Tags",
-    "Pasted image 20250306185227.png",
-    "EJPT/Pasted image 20240318202216.png",
+    "Sin título.canvas",
     "WREATH/GRAFICO.canvas",
+    "EJPT/Pasted image 20240318202216.png",
     "Pasted image 20240515225844.jpg",
     "Pasted image 20240515225934.png",
     "EJPT/assets/Pasted image 20240515183611.png",
     "Pasted image 20240515183619.png",
+    "Pasted image 20240515183748.png",
     "WREATH/Sin título.canvas",
     "Sin título 1.canvas"
   ]
