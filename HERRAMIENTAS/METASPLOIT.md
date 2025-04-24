@@ -47,6 +47,24 @@ para volver hacia atras usamos back
 
 
 
+cuando seleccionas un exploit puedes ver los payloads compatiles usando  show payloads
+
+añadir un workspace
+
+```
+workspace -a {nombredelworkspace}
+```
+
+para cambiar de workspace simplemente pondremos 
+
+```
+workspace {nombredelworkspace}
+```
 
 
+poner en background una session con `ctrl +z`
+
+listar sessions usando `sessions`
+
+cambiar de session usando `session -i {session}`
 
