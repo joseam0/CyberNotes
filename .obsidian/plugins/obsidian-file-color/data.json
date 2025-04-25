@@ -59,6 +59,10 @@
       "color": "PI9i45zLNyhosEeYHZBSY"
     },
     {
+      "path": "PROTOCOLOS",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
       "path": "PUERTOS DE INTERES",
       "color": "PI9i45zLNyhosEeYHZBSY"
     },
@@ -81,6 +85,14 @@
     {
       "path": "CRTP/TECNICAS",
       "color": "V1_yd7rvTew2CzJ2Jw-oj"
+    },
+    {
+      "path": "WEB/CODIGOS DE RESPUESTA HTTP",
+      "color": "V1_yd7rvTew2CzJ2Jw-oj"
+    },
+    {
+      "path": "SCRIPTS",
+      "color": "PI9i45zLNyhosEeYHZBSY"
     }
   ]
 }
