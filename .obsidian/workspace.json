@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HERRAMIENTAS/BLOODHOUND.md",
-                "mode": "source",
+                "file": "SCRIPTS/Blind SQLis.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BLOODHOUND"
+              "title": "Blind SQLis"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -161,52 +161,52 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian42-brat:BRAT": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "e1cf3611a7ccd673",
   "lastOpenFiles": [
-    "HERRAMIENTAS/HERRAMIENTAS.md",
-    "PUERTOS DE INTERES/139.md",
-    "PUERTOS DE INTERES/88.md",
-    "HERRAMIENTAS/SECRETSDUMP.md",
-    "HERRAMIENTAS/MSFVENOM.md",
-    "HERRAMIENTAS/METASPLOIT.md",
-    "HERRAMIENTAS/METERPRETER.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP/CODIGOS DE RESPUESTA.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP/500.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP/404.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP/403.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP/302.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP/301.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP/200.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP",
+    "CRTP/TECNICAS/GOLDEN TICKET.md",
+    "SCRIPTS/Blind SQLis.md",
     "WEB\\CODIGOS DE RESPUESTA HTTP",
-    "PROTOCOLOS/SSH.md",
-    "PROTOCOLOS/SMB.md",
-    "PROTOCOLOS/NETBIOS.md",
-    "PROTOCOLOS/FTP.md",
-    "PROTOCOLOS",
-    "GENERAL\\LINUX",
-    "GENERAL\\HASHES",
-    "CRTP\\clases",
-    "CRTP\\TECNICAS",
-    "CRTP\\HERRAMIENTAS USADAS",
+    "PROTOCOLOS Y SERVICIOS/SSH.md",
+    "PROTOCOLOS Y SERVICIOS/SMB.md",
+    "PROTOCOLOS Y SERVICIOS/NETBIOS.md",
+    "PROTOCOLOS Y SERVICIOS/FTP.md",
+    "PROTOCOLOS Y SERVICIOS",
+    "HERRAMIENTAS/METERPRETER.md",
     "GENERAL/LINUX/Reverse shells.md",
-    "GENERAL/LINUX/Archivos y comandos interesantes de Linux.md",
+    "GENERAL\\LINUX",
+    "SCRIPTS",
+    "CRTP/HERRAMIENTAS USADAS/RUBEUS.md",
+    "WEB/CODIGOS DE RESPUESTA HTTP/CODIGOS DE RESPUESTA.md",
+    "WEB/CODIGOS DE RESPUESTA HTTP/200.md",
+    "WEB/CODIGOS DE RESPUESTA HTTP/403.md",
+    "WEB/CSRF.md",
+    "WEB/CODIGOS DE RESPUESTA HTTP/301.md",
+    "WEB/CODIGOS DE RESPUESTA HTTP/302.md",
+    "WEB/CODIGOS DE RESPUESTA HTTP/404.md",
+    "WEB/CODIGOS DE RESPUESTA HTTP/500.md",
+    "WEB/ENUMERACION.md",
+    "WEB/LFI.md",
+    "HERRAMIENTAS/GOBUSTER.md",
+    "WEB/CODIGOS DE RESPUESTA HTTP",
+    "WEB/SQLi.md",
+    "HERRAMIENTAS/SQLMAP.md",
     "GENERAL/Hashes.md",
     "GENERAL/HASHES/LM.md",
     "GENERAL/HASHES/NT HASH O NTLM a secas.md",
     "GENERAL/HASHES/NTLMV2.md",
-    "GENERAL/HASHES/NTLMV1.md",
-    "GENERAL/HASHES/NET-NTLM.md",
     "GENERAL/HASHES",
+    "CRTP\\clases",
     "ADJUNTOS/Attacking_and_Defending_ActiveDirectory.pdf",
+    "CRTP/TECNICAS",
+    "CRTP\\HERRAMIENTAS USADAS",
     "ADJUNTOS/Pasted image 20250312230314.png",
     "ADJUNTOS/Pasted image 20250312225720.png",
     "ADJUNTOS/Pasted image 20250310204918.png",
