@@ -29,7 +29,18 @@ viendo la documentacion ed gitea vemos que la base de datos se alojha en local e
 
 hacemos la peticion a traves del lfi y obtenemos el .db![[Pasted image 20250429011941.png]]
 
-despues buscamos en las tablas con sqlite browser
+despues buscamos en las tablas con sqlite browser y extraemos la siguiente info de la tabla user con la siguiente query
+
+```sql
+SELECT name,passwd,passwd_hash_algo,salt,rands from user;
+```
+
+| name              | passwd                                                                                                   | passwd_hash_algo    | salt                                 | rands                                |     |     |
+| ----------------- | -------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------ | ------------------------------------ | --- | --- |
+| administrator<br> | cba20ccf927d3ad0567b68161732d3fbca098ce886bbc923b4062a3960d459c08d2dfc063b2406ac9207c980c47c5d017136<br> | pbkdf2$50000$50<br> | 2d149e5fbd1b20cf31db3e3c6a28fc9b<br> | 70a5bd0c1a5d23caa49030172cdcabdc<br> |     |     |
+| administrator<br> | e531d398946137baea70ed6a680a54385ecff131309c0bd8f225f284406b7cbc8efc5dbef30bf1682619263444ea594cfb56<br> | pbkdf2$50000$50<br> | 8bf3e3452b78544f8bee9400d6936d34<br> | 0ce6f07fc9b557bc070fa7bef76a0d15<br> |     |     |
+
+
 
 ## <font color="#00b0f0">USERS</font>
 
