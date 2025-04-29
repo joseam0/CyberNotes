@@ -24,7 +24,7 @@ vemos que corre una base de datos y que tiene credenciales en plano en el repo
 ![[Pasted image 20250429011204.png]]
 pero no tiene el puerto de mysql abierto
 
-viendo la documentacion ed gitea vemos que la base de datos se alojha en local en esta ruta
+viendo la documentación de gitea vemos que la base de datos se aloja en local en esta ruta
 ![[Pasted image 20250429011252.png]]
 
 hacemos la peticion a traves del lfi y obtenemos el .db![[Pasted image 20250429011941.png]]
