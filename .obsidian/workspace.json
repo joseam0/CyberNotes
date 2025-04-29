@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HERRAMIENTAS/HASHCAT.md",
+                "file": "HACKTHEBOX/TITANIC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HASHCAT"
+              "title": "TITANIC"
             }
           },
           {
@@ -61,26 +61,6 @@
               },
               "icon": "lucide-file",
               "title": "NETCAT"
-            }
-          }
-        ]
-      },
-      {
-        "id": "dc3801dcdfcfc16c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "385d81977d22d35e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB/CODIGOS DE RESPUESTA HTTP/CODIGOS DE RESPUESTA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CODIGOS DE RESPUESTA"
             }
           }
         ]
@@ -231,9 +211,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "385d81977d22d35e",
+  "active": "e1cf3611a7ccd673",
   "lastOpenFiles": [
     "HERRAMIENTAS/HASHCAT.md",
+    "WEB/CODIGOS DE RESPUESTA HTTP/CODIGOS DE RESPUESTA.md",
     "HACKTHEBOX/TITANIC.md",
     "ADJUNTOS/Pasted image 20250429011941.png",
     "ADJUNTOS/Pasted image 20250429011252.png",
@@ -255,7 +236,6 @@
     "HERRAMIENTAS/GOBUSTER.md",
     "ADJUNTOS/Pasted image 20250428223649.png",
     "HERRAMIENTAS/HYDRA.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP/CODIGOS DE RESPUESTA.md",
     "HACKTHEBOX",
     "HERRAMIENTAS/BLOODHOUND.md",
     "HERRAMIENTAS/HERRAMIENTAS.md",
