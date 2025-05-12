@@ -40,6 +40,6 @@ export TERM=xterm-256color
 ```
 se ajusta el tamaño de la terminal con 
 ```
-stty rows <num> columns <cols>
+stty rows 10 columns 20
 ```
 
