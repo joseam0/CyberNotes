@@ -13,26 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HACKTHEBOX/UNDERPASS.md",
+                "file": "HERRAMIENTAS/CRACKMAPEXEC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNDERPASS"
+              "title": "CRACKMAPEXEC"
             }
           },
           {
-            "id": "660ca8b857b5e9ab",
+            "id": "e0298b8854c21a18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HERRAMIENTAS/NIKTO.md",
+                "file": "HERRAMIENTAS/NMAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NIKTO"
+              "title": "NMAP"
+            }
+          },
+          {
+            "id": "cbc8600b1998a594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HERRAMIENTAS/GOBUSTER.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GOBUSTER"
+            }
+          },
+          {
+            "id": "6e86180d0fa06c17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECNICAS/FILE UPLOAD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FILE UPLOAD"
+            }
+          }
+        ]
+      },
+      {
+        "id": "38b2f9fcb6d6e37d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee748ce5eb8daf98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HERRAMIENTAS/LIGOLO-NG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LIGOLO-NG"
             }
           }
         ]
@@ -58,7 +106,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -175,64 +223,64 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian42-brat:BRAT": false,
-      "canvas:Crear nuevo lienzo": false,
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e1cf3611a7ccd673",
+  "active": "ee748ce5eb8daf98",
   "lastOpenFiles": [
-    "WEB/SQLi.md",
-    "HERRAMIENTAS/SQLMAP.md",
-    "HACKTHEBOX/UNDERPASS.md",
-    "HERRAMIENTAS/NMAP.md",
-    "HERRAMIENTAS/NIKTO.md",
+    "HERRAMIENTAS/NETEXEC.md",
+    "HERRAMIENTAS/LIGOLO-NG.md",
+    "GENERAL/Git.md",
+    "HERRAMIENTAS/CRACKMAPEXEC.md",
+    "HERRAMIENTAS/SMBCLIENT.md",
+    "HACKTHEBOX/NOCTURNAL.md",
+    "ADJUNTOS/Pasted image 20250507231930.png",
+    "TECNICAS/FILE UPLOAD.md",
+    "WEB/LFI.md",
+    "WEB/CODIGOS DE RESPUESTA HTTP/CODIGOS DE RESPUESTA.md",
+    "GENERAL/LINUX/Reverse shells.md",
+    "HERRAMIENTAS/NETCAT.md",
+    "HERRAMIENTAS/GOBUSTER.md",
+    "HERRAMIENTAS/HYDRA.md",
+    "HERRAMIENTAS/METASPLOIT.md",
+    "HERRAMIENTAS/METERPRETER.md",
+    "HERRAMIENTAS/MSFVENOM.md",
     "HACKTHEBOX/TITANIC.md",
+    "HACKTHEBOX/DOG.md",
+    "ADJUNTOS/Pasted image 20250507193930.png",
+    "HACKTHEBOX/UNDERPASS.md",
     "SCRIPTS/Blind SQLis.md",
-    "HACKTHEBOX",
+    "SCRIPTS",
+    "PROTOCOLOS/SSH.md",
+    "PROTOCOLOS/SMB.md",
+    "PROTOCOLOS/NETBIOS.md",
+    "PROTOCOLOS/FTP.md",
+    "PROTOCOLOS",
+    "CRTP/TECNICAS/GOLDEN TICKET.md",
+    "CRTP\\TECNICAS",
+    "CRTP/HERRAMIENTAS USADAS/RUBEUS.md",
+    "CRTP\\HERRAMIENTAS USADAS",
     "ADJUNTOS/Pasted image 20250429011941.png",
     "ADJUNTOS/Pasted image 20250429011252.png",
     "ADJUNTOS/Pasted image 20250429011204.png",
     "ADJUNTOS/Pasted image 20250429003124.png",
     "ADJUNTOS/Pasted image 20250428223649.png",
-    "CRTP/TECNICAS/GOLDEN TICKET.md",
-    "WEB\\CODIGOS DE RESPUESTA HTTP",
-    "PROTOCOLOS Y SERVICIOS/SSH.md",
-    "PROTOCOLOS Y SERVICIOS/SMB.md",
-    "PROTOCOLOS Y SERVICIOS/NETBIOS.md",
-    "PROTOCOLOS Y SERVICIOS/FTP.md",
-    "PROTOCOLOS Y SERVICIOS",
-    "HERRAMIENTAS/METERPRETER.md",
-    "GENERAL/LINUX/Reverse shells.md",
-    "GENERAL\\LINUX",
-    "SCRIPTS",
-    "CRTP/HERRAMIENTAS USADAS/RUBEUS.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP/CODIGOS DE RESPUESTA.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP/200.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP/403.md",
-    "WEB/CSRF.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP/301.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP/302.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP/404.md",
-    "WEB/CODIGOS DE RESPUESTA HTTP/500.md",
-    "WEB/ENUMERACION.md",
-    "WEB/LFI.md",
-    "HERRAMIENTAS/GOBUSTER.md",
+    "HACKTHEBOX",
     "WEB/CODIGOS DE RESPUESTA HTTP",
-    "GENERAL/HASHES",
+    "WEB\\CODIGOS DE RESPUESTA HTTP",
+    "GENERAL\\LINUX",
+    "GENERAL\\HASHES",
     "CRTP\\clases",
-    "ADJUNTOS/Attacking_and_Defending_ActiveDirectory.pdf",
-    "CRTP/TECNICAS",
     "ADJUNTOS/Pasted image 20250312230314.png",
     "ADJUNTOS/Pasted image 20250312225720.png",
     "ADJUNTOS/Pasted image 20250310204918.png",
-    "ADJUNTOS/Pasted image 20250306231458.png",
     "Sin título.canvas",
     "WREATH/GRAFICO.canvas",
-    "EJPT/Pasted image 20240318202216.png",
     "WREATH/Sin título.canvas",
     "Sin título 1.canvas"
   ]
