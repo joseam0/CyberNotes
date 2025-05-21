@@ -11,6 +11,11 @@
       "id": "V1_yd7rvTew2CzJ2Jw-oj",
       "name": "CARPETA NIVEL 2",
       "value": "#5ed9d1"
+    },
+    {
+      "id": "zxiiC_RBYc-aqnL1x_j4-",
+      "name": "CARPETA NIVEL 3",
+      "value": "#b6ca1c"
     }
   ],
   "fileColors": [
@@ -23,19 +28,11 @@
       "color": "PI9i45zLNyhosEeYHZBSY"
     },
     {
-      "path": "CRTP",
-      "color": "PI9i45zLNyhosEeYHZBSY"
-    },
-    {
-      "path": "EJPT",
-      "color": "PI9i45zLNyhosEeYHZBSY"
+      "path": "CERTIS/CRTP",
+      "color": "V1_yd7rvTew2CzJ2Jw-oj"
     },
     {
       "path": "GENERAL",
-      "color": "PI9i45zLNyhosEeYHZBSY"
-    },
-    {
-      "path": "GENERAL\\LINUX",
       "color": "PI9i45zLNyhosEeYHZBSY"
     },
     {
@@ -51,18 +48,6 @@
       "color": "PI9i45zLNyhosEeYHZBSY"
     },
     {
-      "path": "PROGRAMACION",
-      "color": "PI9i45zLNyhosEeYHZBSY"
-    },
-    {
-      "path": "PROGRAMACION Y SCRIPTING",
-      "color": "PI9i45zLNyhosEeYHZBSY"
-    },
-    {
-      "path": "PROTOCOLOS",
-      "color": "PI9i45zLNyhosEeYHZBSY"
-    },
-    {
       "path": "PUERTOS DE INTERES",
       "color": "PI9i45zLNyhosEeYHZBSY"
     },
@@ -75,16 +60,16 @@
       "color": "PI9i45zLNyhosEeYHZBSY"
     },
     {
-      "path": "CRTP/clases",
-      "color": "V1_yd7rvTew2CzJ2Jw-oj"
+      "path": "CERTIS/CRTP/clases",
+      "color": "zxiiC_RBYc-aqnL1x_j4-"
     },
     {
-      "path": "CRTP/HERRAMIENTAS USADAS",
-      "color": "V1_yd7rvTew2CzJ2Jw-oj"
+      "path": "CERTIS/CRTP/HERRAMIENTAS USADAS",
+      "color": "zxiiC_RBYc-aqnL1x_j4-"
     },
     {
-      "path": "CRTP/TECNICAS",
-      "color": "V1_yd7rvTew2CzJ2Jw-oj"
+      "path": "CERTIS/CRTP/TECNICAS",
+      "color": "zxiiC_RBYc-aqnL1x_j4-"
     },
     {
       "path": "WEB/CODIGOS DE RESPUESTA HTTP",
@@ -97,6 +82,34 @@
     {
       "path": "HACKTHEBOX",
       "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "GENERAL/HASHES",
+      "color": "V1_yd7rvTew2CzJ2Jw-oj"
+    },
+    {
+      "path": "PROGRAMACION Y SCRIPTING",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "PROTOCOLOS Y SERVICIOS",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "GENERAL/DBMS",
+      "color": "V1_yd7rvTew2CzJ2Jw-oj"
+    },
+    {
+      "path": "CERTIS",
+      "color": "PI9i45zLNyhosEeYHZBSY"
+    },
+    {
+      "path": "CERTIS/CRTA",
+      "color": "V1_yd7rvTew2CzJ2Jw-oj"
+    },
+    {
+      "path": "CERTIS/BSCP",
+      "color": "V1_yd7rvTew2CzJ2Jw-oj"
     }
   ]
 }
