@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CERTIS/CRTP/clases/16 - Domain Enumeration - User Hunting.md",
+                "file": "CERTIS/CRTA/Autenticación por Kerberos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 - Domain Enumeration - User Hunting"
+              "title": "Autenticación por Kerberos"
             }
           }
         ]
@@ -171,6 +171,12 @@
   },
   "active": "8eef3108cdd0ee9b",
   "lastOpenFiles": [
+    "CERTIS/CRTA/OBJETOS DE AD.md",
+    "CERTIS/CRTA/GLOSARIO.md",
+    "CERTIS/CRTA/Autenticación por Kerberos.md",
+    "CERTIS/CRTA/GRUPOS PRIVILEGIADOS.md",
+    "CERTIS/CRTA/Untitled.md",
+    "CERTIS/CRTP/clases/16 - Domain Enumeration - User Hunting.md",
     "CERTIS/BSCP",
     "CERTIS/CRTA",
     "CERTIS",
@@ -194,12 +200,7 @@
     "CERTIS/CRTP/herramientas.md",
     "CERTIS/CRTP/LOCAL PRIVESC.md",
     "CERTIS/CRTP/TRUSTS.md",
-    "GENERAL/DBMS/PostgreSQL.md",
-    "GENERAL/DBMS/Oracle.md",
-    "GENERAL/DBMS/Mysql.md",
-    "WEB/SQLi.md",
     "GENERAL/DBMS",
-    "WEB/SSRF.md",
     "GENERAL\\LINUX",
     "ADJUNTOS/Pasted image 20250507231930.png",
     "ADJUNTOS/Pasted image 20250507193930.png",
@@ -213,7 +214,6 @@
     "ADJUNTOS/Pasted image 20250429003124.png",
     "ADJUNTOS/Pasted image 20250428223649.png",
     "HACKTHEBOX",
-    "WEB/CODIGOS DE RESPUESTA HTTP",
     "ADJUNTOS/Pasted image 20250312230314.png",
     "ADJUNTOS/Pasted image 20250312225720.png",
     "ADJUNTOS/Pasted image 20250310204918.png",
